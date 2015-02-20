@@ -10,3 +10,7 @@ Uses DejaVu and Linux Libertine fonts, and xetex.
 
 ![](cv-screenshot.png)
 
+## License
+
+[LaTeX Project Public License version 1.3c](http://www.latex-project.org/lppl/)
+
