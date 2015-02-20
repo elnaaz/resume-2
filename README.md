@@ -6,5 +6,7 @@ Influeced by [Adrien Friggeri's CV](https://github.com/afriggeri/cv), and
 
 Uses DejaVu and Linux Libertine fonts, and xetex.
 
+## Sample
+
 ![](cv-screenshot.png)
 
